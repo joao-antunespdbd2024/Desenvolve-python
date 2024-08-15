@@ -1,0 +1,7 @@
+-Dissertativa
+entrada: receba o valor que será multiplicado por 9,que será o n.
+
+processamento: para chegar ao resultado iremos:
+-calcular o primeiro digito como digito1=n-1(dezena).
+-calcular o segundo digito como digito2=10-n(unidade).
+-o resultado final é então obtido pela fórmula:9xn=digito1x10+digito2.
